@@ -14,3 +14,4 @@ C:\Users\USER\Desktop\C#\Semáforo\Interfaz\obj\Debug\net8.0-windows\refint\Inte
 C:\Users\USER\Desktop\C#\Semáforo\Interfaz\obj\Debug\net8.0-windows\Interfaz.pdb
 C:\Users\USER\Desktop\C#\Semáforo\Interfaz\obj\Debug\net8.0-windows\Interfaz.genruntimeconfig.cache
 C:\Users\USER\Desktop\C#\Semáforo\Interfaz\obj\Debug\net8.0-windows\ref\Interfaz.dll
+C:\Users\USER\Desktop\C#\Semáforo\Interfaz\obj\Debug\net8.0-windows\Interfaz.sourcelink.json
