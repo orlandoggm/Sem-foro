@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\C#\Semáforo\Interfaz\bin\Debug\net8.0-windows\Interfaz.exe
+C:\Users\USER\Desktop\C#\Semáforo\Interfaz\bin\Debug\net8.0-windows\Interfaz.deps.json
+C:\Users\USER\Desktop\C#\Semáforo\Interfaz\bin\Debug\net8.0-windows\Interfaz.runtimeconfig.json
+C:\Users\USER\Desktop\C#\Semáforo\Interfaz\bin\Debug\net8.0-windows\Interfaz.dll
+C:\Users\USER\Desktop\C#\Semáforo\Interfaz\bin\Debug\net8.0-windows\Interfaz.pdb
+C:\Users\USER\Desktop\C#\Semáforo\Interfaz\obj\Debug\net8.0-windows\Interfaz.Form1.resources
+C:\Users\USER\Desktop\C#\Semáforo\Interfaz\obj\Debug\net8.0-windows\Interfaz.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\C#\Semáforo\Interfaz\obj\Debug\net8.0-windows\Interfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\C#\Semáforo\Interfaz\obj\Debug\net8.0-windows\Interfaz.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C#\Semáforo\Interfaz\obj\Debug\net8.0-windows\Interfaz.AssemblyInfo.cs
+C:\Users\USER\Desktop\C#\Semáforo\Interfaz\obj\Debug\net8.0-windows\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#\Semáforo\Interfaz\obj\Debug\net8.0-windows\Interfaz.dll
+C:\Users\USER\Desktop\C#\Semáforo\Interfaz\obj\Debug\net8.0-windows\refint\Interfaz.dll
+C:\Users\USER\Desktop\C#\Semáforo\Interfaz\obj\Debug\net8.0-windows\Interfaz.pdb
+C:\Users\USER\Desktop\C#\Semáforo\Interfaz\obj\Debug\net8.0-windows\Interfaz.genruntimeconfig.cache
+C:\Users\USER\Desktop\C#\Semáforo\Interfaz\obj\Debug\net8.0-windows\ref\Interfaz.dll
