@@ -32,6 +32,8 @@
             buttonIniciar = new Button();
             labelTítulo = new Label();
             panelAmbiente = new Panel();
+            labelHora = new Label();
+            labelTextoHora = new Label();
             panel48 = new Panel();
             panel47 = new Panel();
             panel46 = new Panel();
@@ -41,6 +43,10 @@
             panel42 = new Panel();
             panel41 = new Panel();
             panelCentro = new Panel();
+            panelSemaforoSur = new Panel();
+            panelSemaforoNorte = new Panel();
+            panelSemaforoOeste = new Panel();
+            panelSemaforoEste = new Panel();
             panelAbajo = new Panel();
             panel26 = new Panel();
             panel25 = new Panel();
@@ -98,10 +104,10 @@
             panel3 = new Panel();
             panel2 = new Panel();
             panel1 = new Panel();
-            labelTextoHora = new Label();
-            labelHora = new Label();
+            labelComplementoHora = new Label();
             panelheader.SuspendLayout();
             panelAmbiente.SuspendLayout();
+            panelCentro.SuspendLayout();
             panelAbajo.SuspendLayout();
             panelArriba.SuspendLayout();
             panelDerecha.SuspendLayout();
@@ -143,6 +149,7 @@
             // panelAmbiente
             // 
             panelAmbiente.BackColor = Color.FromArgb(0, 192, 0);
+            panelAmbiente.Controls.Add(labelComplementoHora);
             panelAmbiente.Controls.Add(labelHora);
             panelAmbiente.Controls.Add(labelTextoHora);
             panelAmbiente.Controls.Add(panel48);
@@ -162,6 +169,26 @@
             panelAmbiente.Name = "panelAmbiente";
             panelAmbiente.Size = new Size(671, 670);
             panelAmbiente.TabIndex = 1;
+            // 
+            // labelHora
+            // 
+            labelHora.AutoSize = true;
+            labelHora.Font = new Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            labelHora.Location = new Point(563, 51);
+            labelHora.Name = "labelHora";
+            labelHora.Size = new Size(18, 19);
+            labelHora.TabIndex = 13;
+            labelHora.Text = "6";
+            // 
+            // labelTextoHora
+            // 
+            labelTextoHora.AutoSize = true;
+            labelTextoHora.Font = new Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            labelTextoHora.Location = new Point(513, 51);
+            labelTextoHora.Name = "labelTextoHora";
+            labelTextoHora.Size = new Size(56, 19);
+            labelTextoHora.TabIndex = 12;
+            labelTextoHora.Text = "Hora: ";
             // 
             // panel48
             // 
@@ -230,10 +257,54 @@
             // panelCentro
             // 
             panelCentro.BackColor = Color.FromArgb(64, 64, 64);
+            panelCentro.Controls.Add(panelSemaforoSur);
+            panelCentro.Controls.Add(panelSemaforoNorte);
+            panelCentro.Controls.Add(panelSemaforoOeste);
+            panelCentro.Controls.Add(panelSemaforoEste);
             panelCentro.Location = new Point(260, 260);
             panelCentro.Name = "panelCentro";
             panelCentro.Size = new Size(150, 150);
             panelCentro.TabIndex = 2;
+            // 
+            // panelSemaforoSur
+            // 
+            panelSemaforoSur.BackColor = Color.Silver;
+            panelSemaforoSur.BackgroundImage = Properties.Resources.RojoSur;
+            panelSemaforoSur.BackgroundImageLayout = ImageLayout.Stretch;
+            panelSemaforoSur.Location = new Point(11, 11);
+            panelSemaforoSur.Name = "panelSemaforoSur";
+            panelSemaforoSur.Size = new Size(50, 20);
+            panelSemaforoSur.TabIndex = 2;
+            // 
+            // panelSemaforoNorte
+            // 
+            panelSemaforoNorte.BackColor = Color.Silver;
+            panelSemaforoNorte.BackgroundImage = Properties.Resources.RojoNorte;
+            panelSemaforoNorte.BackgroundImageLayout = ImageLayout.Stretch;
+            panelSemaforoNorte.Location = new Point(90, 120);
+            panelSemaforoNorte.Name = "panelSemaforoNorte";
+            panelSemaforoNorte.Size = new Size(50, 20);
+            panelSemaforoNorte.TabIndex = 1;
+            // 
+            // panelSemaforoOeste
+            // 
+            panelSemaforoOeste.BackColor = Color.Silver;
+            panelSemaforoOeste.BackgroundImage = Properties.Resources.VerdeOeste;
+            panelSemaforoOeste.BackgroundImageLayout = ImageLayout.Stretch;
+            panelSemaforoOeste.Location = new Point(120, 11);
+            panelSemaforoOeste.Name = "panelSemaforoOeste";
+            panelSemaforoOeste.Size = new Size(20, 50);
+            panelSemaforoOeste.TabIndex = 1;
+            // 
+            // panelSemaforoEste
+            // 
+            panelSemaforoEste.BackColor = Color.Silver;
+            panelSemaforoEste.BackgroundImage = Properties.Resources.VerdeEste;
+            panelSemaforoEste.BackgroundImageLayout = ImageLayout.Stretch;
+            panelSemaforoEste.Location = new Point(11, 90);
+            panelSemaforoEste.Name = "panelSemaforoEste";
+            panelSemaforoEste.Size = new Size(20, 50);
+            panelSemaforoEste.TabIndex = 0;
             // 
             // panelAbajo
             // 
@@ -744,25 +815,15 @@
             panel1.Size = new Size(30, 8);
             panel1.TabIndex = 3;
             // 
-            // labelTextoHora
+            // labelComplementoHora
             // 
-            labelTextoHora.AutoSize = true;
-            labelTextoHora.Font = new Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            labelTextoHora.Location = new Point(513, 51);
-            labelTextoHora.Name = "labelTextoHora";
-            labelTextoHora.Size = new Size(56, 19);
-            labelTextoHora.TabIndex = 12;
-            labelTextoHora.Text = "Hora: ";
-            // 
-            // labelHora
-            // 
-            labelHora.AutoSize = true;
-            labelHora.Font = new Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            labelHora.Location = new Point(563, 51);
-            labelHora.Name = "labelHora";
-            labelHora.Size = new Size(42, 19);
-            labelHora.TabIndex = 13;
-            labelHora.Text = "6:00";
+            labelComplementoHora.AutoSize = true;
+            labelComplementoHora.Font = new Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            labelComplementoHora.Location = new Point(575, 51);
+            labelComplementoHora.Name = "labelComplementoHora";
+            labelComplementoHora.Size = new Size(33, 19);
+            labelComplementoHora.TabIndex = 14;
+            labelComplementoHora.Text = ":00";
             // 
             // Form1
             // 
@@ -780,6 +841,7 @@
             panelheader.PerformLayout();
             panelAmbiente.ResumeLayout(false);
             panelAmbiente.PerformLayout();
+            panelCentro.ResumeLayout(false);
             panelAbajo.ResumeLayout(false);
             panelArriba.ResumeLayout(false);
             panelDerecha.ResumeLayout(false);
@@ -861,5 +923,10 @@
         private Panel panel41;
         private Label labelHora;
         private Label labelTextoHora;
+        private Panel panelSemaforoSur;
+        private Panel panelSemaforoNorte;
+        private Panel panelSemaforoOeste;
+        private Panel panelSemaforoEste;
+        private Label labelComplementoHora;
     }
 }

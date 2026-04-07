@@ -15,3 +15,8 @@ C:\Users\USER\Desktop\C#\Semáforo\Interfaz\obj\Debug\net8.0-windows\Interfaz.pd
 C:\Users\USER\Desktop\C#\Semáforo\Interfaz\obj\Debug\net8.0-windows\Interfaz.genruntimeconfig.cache
 C:\Users\USER\Desktop\C#\Semáforo\Interfaz\obj\Debug\net8.0-windows\ref\Interfaz.dll
 C:\Users\USER\Desktop\C#\Semáforo\Interfaz\obj\Debug\net8.0-windows\Interfaz.sourcelink.json
+C:\Users\USER\Desktop\C#\Semáforo\Interfaz\bin\Debug\net8.0-windows\Logica.dll
+C:\Users\USER\Desktop\C#\Semáforo\Interfaz\bin\Debug\net8.0-windows\Logica.pdb
+C:\Users\USER\Desktop\C#\Semáforo\Interfaz\obj\Debug\net8.0-windows\Interfaz.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\C#\Semáforo\Interfaz\obj\Debug\net8.0-windows\Interfaz.csproj.Up2Date
+C:\Users\USER\Desktop\C#\Semáforo\Interfaz\obj\Debug\net8.0-windows\Interfaz.Properties.Resources.resources

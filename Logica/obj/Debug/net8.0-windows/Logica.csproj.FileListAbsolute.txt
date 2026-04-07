@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\C#\Semáforo\Logica\bin\Debug\net8.0-windows\Logica.deps.json
+C:\Users\USER\Desktop\C#\Semáforo\Logica\bin\Debug\net8.0-windows\Logica.dll
+C:\Users\USER\Desktop\C#\Semáforo\Logica\bin\Debug\net8.0-windows\Logica.pdb
+C:\Users\USER\Desktop\C#\Semáforo\Logica\obj\Debug\net8.0-windows\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\C#\Semáforo\Logica\obj\Debug\net8.0-windows\Logica.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C#\Semáforo\Logica\obj\Debug\net8.0-windows\Logica.AssemblyInfo.cs
+C:\Users\USER\Desktop\C#\Semáforo\Logica\obj\Debug\net8.0-windows\Logica.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#\Semáforo\Logica\obj\Debug\net8.0-windows\Logica.sourcelink.json
+C:\Users\USER\Desktop\C#\Semáforo\Logica\obj\Debug\net8.0-windows\Logica.dll
+C:\Users\USER\Desktop\C#\Semáforo\Logica\obj\Debug\net8.0-windows\refint\Logica.dll
+C:\Users\USER\Desktop\C#\Semáforo\Logica\obj\Debug\net8.0-windows\Logica.pdb
+C:\Users\USER\Desktop\C#\Semáforo\Logica\obj\Debug\net8.0-windows\ref\Logica.dll
