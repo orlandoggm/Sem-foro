@@ -10,3 +10,5 @@ C:\Users\USER\Desktop\C#\Semáforo\Logica\obj\Debug\net8.0-windows\Logica.dll
 C:\Users\USER\Desktop\C#\Semáforo\Logica\obj\Debug\net8.0-windows\refint\Logica.dll
 C:\Users\USER\Desktop\C#\Semáforo\Logica\obj\Debug\net8.0-windows\Logica.pdb
 C:\Users\USER\Desktop\C#\Semáforo\Logica\obj\Debug\net8.0-windows\ref\Logica.dll
+C:\Users\USER\Desktop\C#\Semáforo\Logica\obj\Debug\net8.0-windows\Logica.Properties.Resources.resources
+C:\Users\USER\Desktop\C#\Semáforo\Logica\obj\Debug\net8.0-windows\Logica.csproj.GenerateResource.cache

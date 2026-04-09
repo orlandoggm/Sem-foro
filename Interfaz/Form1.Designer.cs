@@ -32,6 +32,7 @@
             buttonIniciar = new Button();
             labelTítulo = new Label();
             panelAmbiente = new Panel();
+            labelComplementoHora = new Label();
             labelHora = new Label();
             labelTextoHora = new Label();
             panel48 = new Panel();
@@ -104,7 +105,6 @@
             panel3 = new Panel();
             panel2 = new Panel();
             panel1 = new Panel();
-            labelComplementoHora = new Label();
             panelheader.SuspendLayout();
             panelAmbiente.SuspendLayout();
             panelCentro.SuspendLayout();
@@ -170,15 +170,25 @@
             panelAmbiente.Size = new Size(671, 670);
             panelAmbiente.TabIndex = 1;
             // 
+            // labelComplementoHora
+            // 
+            labelComplementoHora.AutoSize = true;
+            labelComplementoHora.Font = new Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            labelComplementoHora.Location = new Point(587, 51);
+            labelComplementoHora.Name = "labelComplementoHora";
+            labelComplementoHora.Size = new Size(37, 19);
+            labelComplementoHora.TabIndex = 14;
+            labelComplementoHora.Text = ": 00";
+            // 
             // labelHora
             // 
-            labelHora.AutoSize = true;
             labelHora.Font = new Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             labelHora.Location = new Point(563, 51);
             labelHora.Name = "labelHora";
-            labelHora.Size = new Size(18, 19);
+            labelHora.Size = new Size(27, 19);
             labelHora.TabIndex = 13;
             labelHora.Text = "6";
+            labelHora.TextAlign = ContentAlignment.MiddleRight;
             // 
             // labelTextoHora
             // 
@@ -814,16 +824,6 @@
             panel1.Name = "panel1";
             panel1.Size = new Size(30, 8);
             panel1.TabIndex = 3;
-            // 
-            // labelComplementoHora
-            // 
-            labelComplementoHora.AutoSize = true;
-            labelComplementoHora.Font = new Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            labelComplementoHora.Location = new Point(575, 51);
-            labelComplementoHora.Name = "labelComplementoHora";
-            labelComplementoHora.Size = new Size(33, 19);
-            labelComplementoHora.TabIndex = 14;
-            labelComplementoHora.Text = ":00";
             // 
             // Form1
             // 
