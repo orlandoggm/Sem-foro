@@ -92,6 +92,7 @@
             panelLinea2 = new Panel();
             panelLinea1 = new Panel();
             panelIzquierda = new Panel();
+            panel49 = new Panel();
             panel13 = new Panel();
             panel12 = new Panel();
             panel11 = new Panel();
@@ -703,6 +704,7 @@
             // panelIzquierda
             // 
             panelIzquierda.BackColor = Color.FromArgb(64, 64, 64);
+            panelIzquierda.Controls.Add(panel49);
             panelIzquierda.Controls.Add(panel13);
             panelIzquierda.Controls.Add(panel12);
             panelIzquierda.Controls.Add(panel11);
@@ -720,6 +722,13 @@
             panelIzquierda.Name = "panelIzquierda";
             panelIzquierda.Size = new Size(260, 150);
             panelIzquierda.TabIndex = 0;
+            // 
+            // panel49
+            // 
+            panel49.Location = new Point(178, 97);
+            panel49.Name = "panel49";
+            panel49.Size = new Size(30, 30);
+            panel49.TabIndex = 12;
             // 
             // panel13
             // 
@@ -928,5 +937,6 @@
         private Panel panelSemaforoOeste;
         private Panel panelSemaforoEste;
         private Label labelComplementoHora;
+        private Panel panel49;
     }
 }

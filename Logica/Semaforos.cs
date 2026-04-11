@@ -24,9 +24,9 @@ namespace Logica
 
         public void cambioSemaforos(Panel semaforoNorte, Panel semaforoSur, Panel semaforoEste, Panel semaforoOeste, Label hora, Dictionary<string, Image> norte, Dictionary<string, Image> sur, Dictionary<string, Image> este, Dictionary<string, Image> oeste)
         {
-            int verdeLargo = 400;
-            int verdeCorto = 250;
-            int amarillo = 300;
+            int verdeLargo = 13000;
+            int verdeCorto = 8300;
+            int amarillo = 1000;
             int intervalo = verdeLargo;
             bool rep1 = false;
             bool rep2 = false;
@@ -87,7 +87,7 @@ namespace Logica
                     rep2 = false;
                     rep3 = false;
                     rep4 = false;
-                    if (Convert.ToInt16(hora.Text) >= 6 && Convert.ToInt16(hora.Text) <= 10)
+                    if ((Convert.ToInt16(hora.Text) >= 6 && Convert.ToInt16(hora.Text) <= 10) || (Convert.ToInt16(hora.Text) >= 17 && Convert.ToInt16(hora.Text) <= 21))
                     {
                         intervalo = verdeLargo;
                     }

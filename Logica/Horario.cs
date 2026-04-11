@@ -12,7 +12,7 @@ namespace Logica
         protected void cambioHorario(Label hora)
         {
             var t = new System.Windows.Forms.Timer();
-            t.Interval = 1000;
+            t.Interval = 20000;
             t.Tick += (s, e) =>
             {
                 hora.Text = Convert.ToString((Convert.ToInt16(hora.Text)) + 1);

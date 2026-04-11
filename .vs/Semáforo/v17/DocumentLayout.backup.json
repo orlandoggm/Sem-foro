@@ -7,28 +7,12 @@
       "RelativeMoniker": "D:0:0:{6DEA9331-EE39-4E2C-84DB-CD47E5608B9E}|Logica\\Logica.csproj|solutionrelative:logica\\semaforos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DEA9331-EE39-4E2C-84DB-CD47E5608B9E}|Logica\\Logica.csproj|c:\\users\\user\\desktop\\c#\\sem\u00E1foro\\logica\\horario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DEA9331-EE39-4E2C-84DB-CD47E5608B9E}|Logica\\Logica.csproj|solutionrelative:logica\\horario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2479E767-D065-4DDE-B9D1-C7B8F9FE3E2B}|Interfaz\\Interfaz.csproj|c:\\users\\user\\desktop\\c#\\sem\u00E1foro\\interfaz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2479E767-D065-4DDE-B9D1-C7B8F9FE3E2B}|Interfaz\\Interfaz.csproj|solutionrelative:interfaz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2479E767-D065-4DDE-B9D1-C7B8F9FE3E2B}|Interfaz\\Interfaz.csproj|c:\\users\\user\\desktop\\c#\\sem\u00E1foro\\interfaz\\resources\\verdesur.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{2479E767-D065-4DDE-B9D1-C7B8F9FE3E2B}|Interfaz\\Interfaz.csproj|solutionrelative:interfaz\\resources\\verdesur.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DEA9331-EE39-4E2C-84DB-CD47E5608B9E}|Logica\\Logica.csproj|c:\\users\\user\\desktop\\c#\\sem\u00E1foro\\logica\\logica.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{6DEA9331-EE39-4E2C-84DB-CD47E5608B9E}|Logica\\Logica.csproj|solutionrelative:logica\\logica.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DEA9331-EE39-4E2C-84DB-CD47E5608B9E}|Logica\\Logica.csproj|c:\\users\\user\\desktop\\c#\\sem\u00E1foro\\logica\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{6DEA9331-EE39-4E2C-84DB-CD47E5608B9E}|Logica\\Logica.csproj|solutionrelative:logica\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DEA9331-EE39-4E2C-84DB-CD47E5608B9E}|Logica\\Logica.csproj|c:\\users\\user\\desktop\\c#\\sem\u00E1foro\\logica\\resources\\amarillooeste.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{6DEA9331-EE39-4E2C-84DB-CD47E5608B9E}|Logica\\Logica.csproj|solutionrelative:logica\\resources\\amarillooeste.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+      "AbsoluteMoniker": "D:0:0:{2479E767-D065-4DDE-B9D1-C7B8F9FE3E2B}|Interfaz\\Interfaz.csproj|c:\\users\\user\\desktop\\c#\\sem\u00E1foro\\interfaz\\resources\\carrooeste.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{2479E767-D065-4DDE-B9D1-C7B8F9FE3E2B}|Interfaz\\Interfaz.csproj|solutionrelative:interfaz\\resources\\carrooeste.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2479E767-D065-4DDE-B9D1-C7B8F9FE3E2B}|Interfaz\\Interfaz.csproj|C:\\Users\\USER\\Desktop\\C#\\Sem\u00E1foro\\interfaz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -39,20 +23,32 @@
       "RelativeMoniker": "D:0:0:{2479E767-D065-4DDE-B9D1-C7B8F9FE3E2B}|Interfaz\\Interfaz.csproj|solutionrelative:interfaz\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2479E767-D065-4DDE-B9D1-C7B8F9FE3E2B}|Interfaz\\Interfaz.csproj|c:\\users\\user\\desktop\\c#\\sem\u00E1foro\\interfaz\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{2479E767-D065-4DDE-B9D1-C7B8F9FE3E2B}|Interfaz\\Interfaz.csproj|solutionrelative:interfaz\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2479E767-D065-4DDE-B9D1-C7B8F9FE3E2B}|Interfaz\\Interfaz.csproj|c:\\users\\user\\desktop\\c#\\sem\u00E1foro\\interfaz\\interfaz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2479E767-D065-4DDE-B9D1-C7B8F9FE3E2B}|Interfaz\\Interfaz.csproj|solutionrelative:interfaz\\interfaz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2479E767-D065-4DDE-B9D1-C7B8F9FE3E2B}|Interfaz\\Interfaz.csproj|c:\\users\\user\\desktop\\c#\\sem\u00E1foro\\interfaz\\interfaz.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{2479E767-D065-4DDE-B9D1-C7B8F9FE3E2B}|Interfaz\\Interfaz.csproj|solutionrelative:interfaz\\interfaz.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2479E767-D065-4DDE-B9D1-C7B8F9FE3E2B}|Interfaz\\Interfaz.csproj|c:\\users\\user\\desktop\\c#\\sem\u00E1foro\\interfaz\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{2479E767-D065-4DDE-B9D1-C7B8F9FE3E2B}|Interfaz\\Interfaz.csproj|solutionrelative:interfaz\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DEA9331-EE39-4E2C-84DB-CD47E5608B9E}|Logica\\Logica.csproj|c:\\users\\user\\desktop\\c#\\sem\u00E1foro\\logica\\resources\\amarillooeste.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{6DEA9331-EE39-4E2C-84DB-CD47E5608B9E}|Logica\\Logica.csproj|solutionrelative:logica\\resources\\amarillooeste.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DEA9331-EE39-4E2C-84DB-CD47E5608B9E}|Logica\\Logica.csproj|c:\\users\\user\\desktop\\c#\\sem\u00E1foro\\logica\\horario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DEA9331-EE39-4E2C-84DB-CD47E5608B9E}|Logica\\Logica.csproj|solutionrelative:logica\\horario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DEA9331-EE39-4E2C-84DB-CD47E5608B9E}|Logica\\Logica.csproj|c:\\users\\user\\desktop\\c#\\sem\u00E1foro\\logica\\logica.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6DEA9331-EE39-4E2C-84DB-CD47E5608B9E}|Logica\\Logica.csproj|solutionrelative:logica\\logica.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6DEA9331-EE39-4E2C-84DB-CD47E5608B9E}|Logica\\Logica.csproj|c:\\users\\user\\desktop\\c#\\sem\u00E1foro\\logica\\logica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{6DEA9331-EE39-4E2C-84DB-CD47E5608B9E}|Logica\\Logica.csproj|solutionrelative:logica\\logica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DEA9331-EE39-4E2C-84DB-CD47E5608B9E}|Logica\\Logica.csproj|c:\\users\\user\\desktop\\c#\\sem\u00E1foro\\logica\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{6DEA9331-EE39-4E2C-84DB-CD47E5608B9E}|Logica\\Logica.csproj|solutionrelative:logica\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,23 +62,39 @@
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VerdeSur.png",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C#\\Sem\u00E1foro\\Interfaz\\Resources\\VerdeSur.png",
-              "RelativeDocumentMoniker": "Interfaz\\Resources\\VerdeSur.png",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\C#\\Sem\u00E1foro\\Interfaz\\Resources\\VerdeSur.png",
-              "RelativeToolTip": "Interfaz\\Resources\\VerdeSur.png",
+              "DocumentIndex": 2,
+              "Title": "CarroOeste.png",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C#\\Sem\u00E1foro\\Interfaz\\Resources\\CarroOeste.png",
+              "RelativeDocumentMoniker": "Interfaz\\Resources\\CarroOeste.png",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\C#\\Sem\u00E1foro\\Interfaz\\Resources\\CarroOeste.png",
+              "RelativeToolTip": "Interfaz\\Resources\\CarroOeste.png",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2026-04-09T02:09:29.879Z",
+              "WhenOpened": "2026-04-11T18:27:54.186Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C#\\Sem\u00E1foro\\Interfaz\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Interfaz\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\C#\\Sem\u00E1foro\\Interfaz\\Properties\\Resources.resx",
+              "RelativeToolTip": "Interfaz\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-04-11T03:57:48.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "AmarilloOeste.png",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C#\\Sem\u00E1foro\\Logica\\Resources\\AmarilloOeste.png",
               "RelativeDocumentMoniker": "Logica\\Resources\\AmarilloOeste.png",
@@ -93,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Resources.resx",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C#\\Sem\u00E1foro\\Logica\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "Logica\\Properties\\Resources.resx",
@@ -104,54 +116,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Logica",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C#\\Sem\u00E1foro\\Logica\\Logica.csproj",
               "RelativeDocumentMoniker": "Logica\\Logica.csproj",
               "ToolTip": "C:\\Users\\USER\\Desktop\\C#\\Sem\u00E1foro\\Logica\\Logica.csproj",
               "RelativeToolTip": "Logica\\Logica.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-07T23:57:30.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-07T23:57:30.126Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Resources.resx",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C#\\Sem\u00E1foro\\Interfaz\\Properties\\Resources.resx",
-              "RelativeDocumentMoniker": "Interfaz\\Properties\\Resources.resx",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\C#\\Sem\u00E1foro\\Interfaz\\Properties\\Resources.resx",
-              "RelativeToolTip": "Interfaz\\Properties\\Resources.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-04-07T23:56:43.893Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "Interfaz",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C#\\Sem\u00E1foro\\Interfaz\\Interfaz.csproj",
               "RelativeDocumentMoniker": "Interfaz\\Interfaz.csproj",
               "ToolTip": "C:\\Users\\USER\\Desktop\\C#\\Sem\u00E1foro\\Interfaz\\Interfaz.csproj",
               "RelativeToolTip": "Interfaz\\Interfaz.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-07T23:56:30.783Z"
+              "WhenOpened": "2026-04-07T23:56:30.783Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Horario.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C#\\Sem\u00E1foro\\Logica\\Horario.cs",
               "RelativeDocumentMoniker": "Logica\\Horario.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\C#\\Sem\u00E1foro\\Logica\\Horario.cs",
               "RelativeToolTip": "Logica\\Horario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T05:00:10.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-07T05:00:10.951Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "Logica.csproj",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C#\\Sem\u00E1foro\\Logica\\Logica.csproj",
               "RelativeDocumentMoniker": "Logica\\Logica.csproj",
@@ -163,64 +163,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Interfaz.csproj",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C#\\Sem\u00E1foro\\Interfaz\\Interfaz.csproj",
-              "RelativeDocumentMoniker": "Interfaz\\Interfaz.csproj",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\C#\\Sem\u00E1foro\\Interfaz\\Interfaz.csproj",
-              "RelativeToolTip": "Interfaz\\Interfaz.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-07T02:02:08.146Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Semaforos.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C#\\Sem\u00E1foro\\Logica\\Semaforos.cs",
               "RelativeDocumentMoniker": "Logica\\Semaforos.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\C#\\Sem\u00E1foro\\Logica\\Semaforos.cs",
               "RelativeToolTip": "Logica\\Semaforos.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAhwBwAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-07T02:01:52.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C#\\Sem\u00E1foro\\Interfaz\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Interfaz\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\C#\\Sem\u00E1foro\\Interfaz\\Form1.Designer.cs",
               "RelativeToolTip": "Interfaz\\Form1.Designer.cs",
-              "ViewState": "AgIAAIoAAAAAAAAAAAAowIoAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAowIsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T00:53:31.617Z"
+              "WhenOpened": "2026-04-07T00:53:31.617Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C#\\Sem\u00E1foro\\Interfaz\\Form1.cs",
               "RelativeDocumentMoniker": "Interfaz\\Form1.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\C#\\Sem\u00E1foro\\Interfaz\\Form1.cs",
               "RelativeToolTip": "Interfaz\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-29T00:26:27.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C#\\Sem\u00E1foro\\Interfaz\\Form1.cs",
               "RelativeDocumentMoniker": "Interfaz\\Form1.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\C#\\Sem\u00E1foro\\Interfaz\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Interfaz\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T02:44:37.449Z"
+              "WhenOpened": "2026-04-07T02:44:37.449Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
