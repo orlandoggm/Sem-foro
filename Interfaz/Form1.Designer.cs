@@ -150,6 +150,7 @@
             // panelAmbiente
             // 
             panelAmbiente.BackColor = Color.FromArgb(0, 192, 0);
+            panelAmbiente.Controls.Add(panel49);
             panelAmbiente.Controls.Add(labelComplementoHora);
             panelAmbiente.Controls.Add(labelHora);
             panelAmbiente.Controls.Add(labelTextoHora);
@@ -704,7 +705,6 @@
             // panelIzquierda
             // 
             panelIzquierda.BackColor = Color.FromArgb(64, 64, 64);
-            panelIzquierda.Controls.Add(panel49);
             panelIzquierda.Controls.Add(panel13);
             panelIzquierda.Controls.Add(panel12);
             panelIzquierda.Controls.Add(panel11);
@@ -725,7 +725,7 @@
             // 
             // panel49
             // 
-            panel49.Location = new Point(178, 97);
+            panel49.Location = new Point(672, 184);
             panel49.Name = "panel49";
             panel49.Size = new Size(30, 30);
             panel49.TabIndex = 12;
