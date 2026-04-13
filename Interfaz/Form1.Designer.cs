@@ -29,9 +29,11 @@
         private void InitializeComponent()
         {
             panelheader = new Panel();
+            panel50 = new Panel();
             buttonIniciar = new Button();
             labelTítulo = new Label();
             panelAmbiente = new Panel();
+            panel49 = new Panel();
             labelComplementoHora = new Label();
             labelHora = new Label();
             labelTextoHora = new Label();
@@ -92,7 +94,6 @@
             panelLinea2 = new Panel();
             panelLinea1 = new Panel();
             panelIzquierda = new Panel();
-            panel49 = new Panel();
             panel13 = new Panel();
             panel12 = new Panel();
             panel11 = new Panel();
@@ -118,12 +119,20 @@
             // panelheader
             // 
             panelheader.BackColor = SystemColors.AppWorkspace;
+            panelheader.Controls.Add(panel50);
             panelheader.Controls.Add(buttonIniciar);
             panelheader.Controls.Add(labelTítulo);
             panelheader.Location = new Point(-2, 1);
             panelheader.Name = "panelheader";
             panelheader.Size = new Size(671, 99);
             panelheader.TabIndex = 0;
+            // 
+            // panel50
+            // 
+            panel50.Location = new Point(361, 95);
+            panel50.Name = "panel50";
+            panel50.Size = new Size(32, 31);
+            panel50.TabIndex = 15;
             // 
             // buttonIniciar
             // 
@@ -171,6 +180,13 @@
             panelAmbiente.Name = "panelAmbiente";
             panelAmbiente.Size = new Size(671, 670);
             panelAmbiente.TabIndex = 1;
+            // 
+            // panel49
+            // 
+            panel49.Location = new Point(672, 184);
+            panel49.Name = "panel49";
+            panel49.Size = new Size(30, 30);
+            panel49.TabIndex = 12;
             // 
             // labelComplementoHora
             // 
@@ -723,13 +739,6 @@
             panelIzquierda.Size = new Size(260, 150);
             panelIzquierda.TabIndex = 0;
             // 
-            // panel49
-            // 
-            panel49.Location = new Point(672, 184);
-            panel49.Name = "panel49";
-            panel49.Size = new Size(30, 30);
-            panel49.TabIndex = 12;
-            // 
             // panel13
             // 
             panel13.BackColor = Color.White;
@@ -938,5 +947,6 @@
         private Panel panelSemaforoEste;
         private Label labelComplementoHora;
         private Panel panel49;
+        private Panel panel50;
     }
 }
